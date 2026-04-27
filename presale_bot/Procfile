@@ -1,1 +1,1 @@
-worker: python bot.py
+worker:  python presale_bot/bot.py
